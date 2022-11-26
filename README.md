@@ -169,7 +169,7 @@ Router The Queen <br>
 ![image](https://user-images.githubusercontent.com/85897222/204075792-6acab7f0-147c-4cdd-8674-6ba87d95c806.png)
 
 ### Testing
-Test setiap klien ke server.
+Test setiap klien ke server. <br>
 ![image](https://user-images.githubusercontent.com/85897222/204091600-5e415d05-c384-40f8-bcb0-1c58dbfef757.png)
 <br>
 ![image](https://user-images.githubusercontent.com/85897222/204091629-7380f85d-cdbb-458c-8cc9-9d94bde05c0e.png)
