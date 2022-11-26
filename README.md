@@ -170,6 +170,12 @@ Router The Queen <br>
 
 ### Testing
 Test setiap klien ke server.
+![image](https://user-images.githubusercontent.com/85897222/204091600-5e415d05-c384-40f8-bcb0-1c58dbfef757.png)
+<br>
+![image](https://user-images.githubusercontent.com/85897222/204091629-7380f85d-cdbb-458c-8cc9-9d94bde05c0e.png)
+<br>
+![image](https://user-images.githubusercontent.com/85897222/204091661-1d45dbd6-47f4-4b4d-9f5e-6705bd676500.png)
+
 
 ## Kendala
 Pada aplikasi Cisco Packet Tracer terkadang dapat melakukan ping dan terkadang tidak tanpa sebab.
